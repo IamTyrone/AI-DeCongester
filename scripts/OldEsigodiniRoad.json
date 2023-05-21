@@ -1,0 +1,373 @@
+[
+  {
+    "day": "Monday",
+    "params": [
+      {
+        "duration": "00-02",
+        "carCountPer200M": 0.086
+      },
+      {
+        "duration": "02-04",
+        "carCountPer200M": 0.055
+      },
+      {
+        "duration": "04-06",
+        "carCountPer200M": 0.6
+      },
+      {
+        "duration": "06-08",
+        "carCountPer200M": 1.8
+      },
+      {
+        "duration": "08-10",
+        "carCountPer200M": 2.8
+      },
+      {
+        "duration": "10-12",
+        "carCountPer200M": 2.2
+      },
+      {
+        "duration": "12-14",
+        "carCountPer200M": 2.4
+      },
+      {
+        "duration": "14-16",
+        "carCountPer200M": 1.9
+      },
+      {
+        "duration": "16-18",
+        "carCountPer200M": 2.4
+      },
+      {
+        "duration": "18-20",
+        "carCountPer200M": 2.1
+      },
+      {
+        "duration": "20-22",
+        "carCountPer200M": 1.5
+      },
+      {
+        "duration": "22-24",
+        "carCountPer200M": 0.88
+      }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "params": [
+      {
+        "duration": "00-02",
+        "carCountPer200M": 0.077
+      },
+      {
+        "duration": "02-04",
+        "carCountPer200M": 0.76
+      },
+      {
+        "duration": "04-06",
+        "carCountPer200M": 0.55
+      },
+      {
+        "duration": "06-08",
+        "carCountPer200M": 1.4
+      },
+      {
+        "duration": "08-10",
+        "carCountPer200M": 2.3
+      },
+      {
+        "duration": "10-12",
+        "carCountPer200M": 1.98
+      },
+      {
+        "duration": "12-14",
+        "carCountPer200M": 2.1
+      },
+      {
+        "duration": "14-16",
+        "carCountPer200M": 1.34
+      },
+      {
+        "duration": "16-18",
+        "carCountPer200M": 2.12
+      },
+      {
+        "duration": "18-20",
+        "carCountPer200M": 1.54
+      },
+      {
+        "duration": "20-22",
+        "carCountPer200M": 1.22
+      },
+      {
+        "duration": "22-24",
+        "carCountPer200M": 0.6
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "params": [
+      {
+        "duration": "00-02",
+        "carCountPer200M": 0.06
+      },
+      {
+        "duration": "02-04",
+        "carCountPer200M": 0.09
+      },
+      {
+        "duration": "04-06",
+        "carCountPer200M": 0.4
+      },
+      {
+        "duration": "06-08",
+        "carCountPer200M": 1.5
+      },
+      {
+        "duration": "08-10",
+        "carCountPer200M": 2.3
+      },
+      {
+        "duration": "10-12",
+        "carCountPer200M": 2.0
+      },
+      {
+        "duration": "12-14",
+        "carCountPer200M": 2.2
+      },
+      {
+        "duration": "14-16",
+        "carCountPer200M": 1.3
+      },
+      {
+        "duration": "16-18",
+        "carCountPer200M": 2.1
+      },
+      {
+        "duration": "18-20",
+        "carCountPer200M": 2.2
+      },
+      {
+        "duration": "20-22",
+        "carCountPer200M": 1.4
+      },
+      {
+        "duration": "22-24",
+        "carCountPer200M": 0.5
+      }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "params": [
+      {
+        "duration": "00-02",
+        "carCountPer200M": 0.13
+      },
+      {
+        "duration": "02-04",
+        "carCountPer200M": 0.09
+      },
+      {
+        "duration": "04-06",
+        "carCountPer200M": 0.4
+      },
+      {
+        "duration": "06-08",
+        "carCountPer200M": 2.1
+      },
+      {
+        "duration": "08-10",
+        "carCountPer200M": 2.3
+      },
+      {
+        "duration": "10-12",
+        "carCountPer200M": 2.0
+      },
+      {
+        "duration": "12-14",
+        "carCountPer200M": 2.2
+      },
+      {
+        "duration": "14-16",
+        "carCountPer200M": 1.4
+      },
+      {
+        "duration": "16-18",
+        "carCountPer200M": 2.3
+      },
+      {
+        "duration": "18-20",
+        "carCountPer200M": 2.7
+      },
+      {
+        "duration": "20-22",
+        "carCountPer200M": 1.6
+      },
+      {
+        "duration": "22-24",
+        "carCountPer200M": 1.9
+      }
+    ]
+  },
+  {
+    "day": "Friday",
+    "params": [
+      {
+        "duration": "00-02",
+        "carCountPer200M": 0.15
+      },
+      {
+        "duration": "02-04",
+        "carCountPer200M": 0.11
+      },
+      {
+        "duration": "04-06",
+        "carCountPer200M": 1.01
+      },
+      {
+        "duration": "06-08",
+        "carCountPer200M": 2.32
+      },
+      {
+        "duration": "08-10",
+        "carCountPer200M": 2.5
+      },
+      {
+        "duration": "10-12",
+        "carCountPer200M": 2.01
+      },
+      {
+        "duration": "12-14",
+        "carCountPer200M": 2.3
+      },
+      {
+        "duration": "14-16",
+        "carCountPer200M": 1.4
+      },
+      {
+        "duration": "16-18",
+        "carCountPer200M": 2.23
+      },
+      {
+        "duration": "18-20",
+        "carCountPer200M": 2.4
+      },
+      {
+        "duration": "20-22",
+        "carCountPer200M": 2.0
+      },
+      {
+        "duration": "22-24",
+        "carCountPer200M": 1.2
+      }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "params": [
+      {
+        "duration": "00-02",
+        "carCountPer200M": 0.3
+      },
+      {
+        "duration": "02-04",
+        "carCountPer200M": 0.15
+      },
+      {
+        "duration": "04-06",
+        "carCountPer200M": 1.11
+      },
+      {
+        "duration": "06-08",
+        "carCountPer200M": 1.3
+      },
+      {
+        "duration": "08-10",
+        "carCountPer200M": 1.8
+      },
+      {
+        "duration": "10-12",
+        "carCountPer200M": 1.0
+      },
+      {
+        "duration": "12-14",
+        "carCountPer200M": 1.2
+      },
+      {
+        "duration": "14-16",
+        "carCountPer200M": 1.1
+      },
+      {
+        "duration": "16-18",
+        "carCountPer200M": 1.2
+      },
+      {
+        "duration": "18-20",
+        "carCountPer200M": 2.5
+      },
+      {
+        "duration": "20-22",
+        "carCountPer200M": 1.2
+      },
+      {
+        "duration": "22-24",
+        "carCountPer200M": 1.3
+      }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "params": [
+      {
+        "duration": "00-02",
+        "carCountPer200M": 0.25
+      },
+      {
+        "duration": "02-04",
+        "carCountPer200M": 0.15
+      },
+      {
+        "duration": "04-06",
+        "carCountPer200M": 1.2
+      },
+      {
+        "duration": "06-08",
+        "carCountPer200M": 1.5
+      },
+      {
+        "duration": "08-10",
+        "carCountPer200M": 1.7
+      },
+      {
+        "duration": "10-12",
+        "carCountPer200M": 0.7
+      },
+      {
+        "duration": "12-14",
+        "carCountPer200M": 1.25
+      },
+      {
+        "duration": "14-16",
+        "carCountPer200M": 0.7
+      },
+      {
+        "duration": "16-18",
+        "carCountPer200M": 1.0
+      },
+      {
+        "duration": "18-20",
+        "carCountPer200M": 1.5
+      },
+      {
+        "duration": "20-22",
+        "carCountPer200M": 1.0
+      },
+      {
+        "duration": "22-24",
+        "carCountPer200M": 0.8
+      }
+    ]
+  }
+]
